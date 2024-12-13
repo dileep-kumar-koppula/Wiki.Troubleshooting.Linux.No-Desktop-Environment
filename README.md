@@ -2,6 +2,8 @@
 
 ## Gnome Desktop Environment
 
++ fgrge
+
     ```bash
     sudo systemctl disable gdm3
     sudo systemctl enable gdm3
