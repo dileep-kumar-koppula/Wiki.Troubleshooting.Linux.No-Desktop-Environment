@@ -40,11 +40,15 @@
 
 ## Start Gnome-Desktop-Manager from `tty` Sessions
 
++ Try this, if you want gnome session from tty session
+
     ```bash
     sudo /etc/init.d/gdm3 start
     ```
 
 ## Remove unwanted Apps
+
++ Removing unnessary Applications
 
     ```bash
     sudo apt remove gnome-weather gnome-contacts totem* gnome-maps gnome-mahjongg aisleriot gnome-2048 five-or-more four-in-a-row quadrapassel rhythmbox* tali swell-foop shotwell* hitori gnome-klotski gnome-chess gnome-mines gnome-music lightsoff gnome-robots gnome-nibbles gnome-sudoku gnome-tetravex gnome-taquin iagno* evolution* gdm* -y
