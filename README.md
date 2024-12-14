@@ -2,12 +2,6 @@
 
 ## Gnome Desktop Environment
 
-+ Install required services
-
-    ```bash
-    sudo apt install  -y
-    ```
-
 + Re-configurate Desktop Manager to Gnome-Desktop-Manager
 
     ```bash
