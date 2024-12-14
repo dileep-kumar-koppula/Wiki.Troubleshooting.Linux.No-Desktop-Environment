@@ -49,7 +49,7 @@
 + Installing
 
     ```bash
-    sudo apt install gnome-session gnome-shell gnome-shell-extension-manager gdm3* gnome-terminal -y
+    sudo apt install gnome-session gnome-shell gdm3* gnome-terminal -y
     ```
 
 ## System updates
