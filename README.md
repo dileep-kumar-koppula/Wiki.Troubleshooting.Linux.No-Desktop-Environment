@@ -2,16 +2,10 @@
 
 ## Gnome Desktop Environment
 
-+ Re-install services
-
-    ```bash
-    sudo apt install --reinstall gdm3 gnome-terminal -y
-    ```
-
 + Install required services
 
     ```bash
-    sudo apt install gnome-shell gnome-shell-extension-manager gdm3* -y
+    sudo apt install  -y
     ```
 
 + Re-configurate Desktop Manager to Gnome-Desktop-Manager
