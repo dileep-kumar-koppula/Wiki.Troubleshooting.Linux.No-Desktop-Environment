@@ -1,4 +1,4 @@
-# No Desktop Environment
+# No Desktop Environment / GUI Issue
 
 ## Gnome Desktop Environment
 
@@ -46,14 +46,6 @@
     sudo /etc/init.d/gdm3 start
     ```
 
-## Remove unwanted Apps
-
-+ Removing unnessary Applications
-
-    ```bash
-    sudo apt remove gnome-weather gnome-contacts totem* gnome-maps gnome-mahjongg aisleriot gnome-2048 five-or-more four-in-a-row quadrapassel rhythmbox* tali swell-foop shotwell* hitori gnome-klotski gnome-chess gnome-mines gnome-music lightsoff gnome-robots gnome-nibbles gnome-sudoku gnome-tetravex gnome-taquin iagno* evolution* gdm* -y
-    ```
-
 ## System updates
 
 + Updating, Cleaning system files
@@ -67,5 +59,5 @@
 + Installing
 
     ```bash
-    sudo apt install gnome-session gnome-shell gnome-shell-extension-manager gdm3* -y
+    sudo apt install gnome-session gnome-shell gnome-shell-extension-manager gdm3* gnome-terminal -y
     ```
